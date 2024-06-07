@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.proyectos.katerin.app.SistemaDeProyectosUtsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 89.31 s -- in com.proyectos.katerin.app.SistemaDeProyectosUtsApplicationTests
